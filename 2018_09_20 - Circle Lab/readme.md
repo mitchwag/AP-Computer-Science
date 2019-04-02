@@ -13,5 +13,5 @@ Create Circle and CircleRunner classes
 - default constructor
 - getName
 - getRadius
-- calcArea - - use Math.PI when multiplying by pi
+- calcArea - use Math.PI when multiplying by pi
 - calcCircumference - use Math.PI when multiplying by pi
