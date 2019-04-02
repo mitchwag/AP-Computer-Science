@@ -5,7 +5,6 @@ public class RandomNoRepeatRunner {
 		RandomNoRepeat obj = new RandomNoRepeat();
 		obj.setNumbers();
 		System.out.println(obj.getNumbers());
-
 	}
-
+	
 }
