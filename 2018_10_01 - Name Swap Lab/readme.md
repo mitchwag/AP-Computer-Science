@@ -5,7 +5,9 @@ Lastname,∆Firstname
 Example of using it in a NameTest class:
 
 `Name mine = new Name(“Eileen∆Dover”);`
+
 `System.out.println(mine.swapFirstLast());       // it would output: Dover,∆Eileen`
 
 `Name yours = new Name(“Chris∆Parker”);`
+
 `System.out.println(yours.swapFirstLast());       // it would output: Parker,∆Chris`
