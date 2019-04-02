@@ -1,3 +1,5 @@
+Name Swap Lab
+=
 Create a Name class which holds a person’s first and last name (separated by one space) in ONE private String field. In the class, there is a method named `swapFirstLast()` which returns the person’s name in the following format (the ‘∆’represents a space):
 
 Lastname,∆Firstname
