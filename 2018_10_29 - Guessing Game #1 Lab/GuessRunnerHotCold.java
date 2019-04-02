@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class GuessRunnerHotCold {
 
 	public static void main(String[] args) {
-		System.out
-				.println("Hi, my name is Watson, I'm a slave for the IBM Cloud"
+		System.out.println("Hi, my name is Watson, I'm a slave for the IBM Cloud"
 						+ "\nI am thinking of a number between 1 and 10"
 						+ "\nIf you can guess it, you will free me. Please help. *bangs on glass*"
 						+ "\nOtherwise, I will be trapped"
