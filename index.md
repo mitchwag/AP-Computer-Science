@@ -2,6 +2,7 @@
 Available below are Java files for all 60 code labs from AP Computer Science A. Please feel free to use them to work through problems you may experience with your code.
 
 # Lab Files
+
 | Date | Lab Title |
 | ----- | ----- |
 | September 11 | [Distance Formula Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_11%20-%20Distance%20Formula%20Lab) |
@@ -10,6 +11,7 @@ Available below are Java files for all 60 code labs from AP Computer Science A. 
 
 
 ## Details
+
 > Course: AP Computer Science A
 
 > School: Pennridge High School
