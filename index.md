@@ -18,9 +18,6 @@ September 27 | [Number Sorter Lab](https://github.com/mitchwag17/AP-Computer-Sci
 September 27 | [Weighted Grade Calculator](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Weighted%20Grade%20Calculator%20Lab)
 
 
-<a href="https://github.com/mitchwag17/AP-Computer-Science" class="btn">View on GitHub</a>
-
-
 ## Details
 
 > Course: AP Computer Science A
