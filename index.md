@@ -10,6 +10,9 @@ September 13 | [Box Office Lab](https://github.com/mitchwag17/AP-Computer-Scienc
 
 
 > Course: AP Computer Science A
+
 > School: Pennridge High School
+
 > Teacher: Mr. Harris
+
 > Year: 2018-2019
