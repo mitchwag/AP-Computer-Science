@@ -12,8 +12,11 @@ September 20 | [Rectangle Lab](https://github.com/mitchwag17/AP-Computer-Science
 September 21 | [Change Calculator Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_21%20-%20Change%20Calculator%20Lab)
 September 21 | [Pythagorean Theorem Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_21%20-%20Pythagorean%20Theorem%20Lab)
 September 25 | [Quadratic Formula Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_25%20-%20Quadratic%20Formula%20Lab)
-To Be Updated... |
+September 27 | [Grade Calculator Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Grade%20Calculator%20Lab)
+September 27 | [Number Sorter Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Number%20Sorter%20Lab)
+September 27 | [Weighted Grade Calculator](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Weighted%20Grade%20Calculator%20Lab)
 
+{% include button.html button_name="Test" button_class="primary" %}
 
 ## Details
 > Course: AP Computer Science A
