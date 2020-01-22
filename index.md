@@ -3,7 +3,7 @@ Available below are Java files for all 60 code labs from AP Computer Science A. 
 
 # Lab Files
 Date | Lab Title
---- | ---
+| ----- | ----- |
 September 11 | [Distance Formula Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_11%20-%20Distance%20Formula%20Lab)
 September 12 | [Midpoint Formula Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_12%20-%20Midpoint%20Formula%20Lab)
 September 13 | [Box Office Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_13%20-%20Box%20Office%20Lab)
