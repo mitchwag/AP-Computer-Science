@@ -15,6 +15,7 @@ September 25 | [Quadratic Formula Lab](https://github.com/mitchwag17/AP-Computer
 September 27 | [Grade Calculator Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Grade%20Calculator%20Lab)
 September 27 | [Number Sorter Lab](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Number%20Sorter%20Lab)
 September 27 | [Weighted Grade Calculator](https://github.com/mitchwag17/AP-Computer-Science/tree/master/2018_09_27%20-%20Weighted%20Grade%20Calculator%20Lab)
+End | More Coming Soon
 
 ## Details
 > Course: AP Computer Science A
